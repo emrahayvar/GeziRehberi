@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeziRehberi</string>
+    <string name="search_label">search_label</string>
+    <string name="search_hint">search_hint</string>
+    <string name="settings_description">settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>
